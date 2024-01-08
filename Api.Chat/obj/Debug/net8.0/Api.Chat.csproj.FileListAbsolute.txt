@@ -1,0 +1,66 @@
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\appsettings.json
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.exe
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.deps.json
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.runtimeconfig.json
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.pdb
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.csproj.AssemblyReference.cache
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.AssemblyInfoInputs.cache
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.AssemblyInfo.cs
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.csproj.CoreCompileInputs.cache
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.Api.Chat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.Chat.props
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.Chat.props
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.Chat.props
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\scopedcss\bundle\Api.Chat.styles.css
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.csproj.CopyComplete
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\refint\Api.Chat.dll
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.pdb
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.genruntimeconfig.cache
+C:\Users\BMI 02\Desktop\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\ref\Api.Chat.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\appsettings.json
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.exe
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.deps.json
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.runtimeconfig.json
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Api.Chat.pdb
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.csproj.AssemblyReference.cache
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.AssemblyInfoInputs.cache
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.AssemblyInfo.cs
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.Api.Chat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.Chat.props
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.Chat.props
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.Chat.props
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\scopedcss\bundle\Api.Chat.styles.css
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.csproj.CopyComplete
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\refint\Api.Chat.dll
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.pdb
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\Api.Chat.genruntimeconfig.cache
+C:\Users\mauro\Downloads\Chat\Chat\Api.Chat\Api.Chat\obj\Debug\net8.0\ref\Api.Chat.dll
